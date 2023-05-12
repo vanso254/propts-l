@@ -1,4 +1,4 @@
-const travelJournal=[
+export default [
     {
         Country:"Kenya",
         Name:"Mt. Kenya",
@@ -27,4 +27,3 @@ const travelJournal=[
         Description:"Asante Sana Beach Cottages is a secluded beachfront oasis in Fukuchani Village, Zanzibar, offering a luxurious and eco-friendly retreat with stunning ocean views, a private infinity pool, and breathtaking sunsets. Escape the crowds of Nungwi and experience the authentic local charm while indulging in a unique beachfront vacation at Asante Sana Beach Cottages."
     }
 ]
-export default travelJournal
