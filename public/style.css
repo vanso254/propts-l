@@ -1,0 +1,32 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 2px;
+    margin-bottom: 10px;
+}
+.location{
+    display: inline-flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.location>h3{
+    font-size: 18px;
+}
+.dates{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.image-container{
+    border-radius: 8px;
+    max-width: 300px;
+    max-height: 300px;
+}
+.content-container{
+    padding-left: 18px;
+}
